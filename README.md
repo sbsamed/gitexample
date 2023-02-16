@@ -1,2 +1,0 @@
-# gitexample
-git course
